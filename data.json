@@ -2,6 +2,6 @@
     "smtp_host": "smtp.gmail.com",
     "smtp_port": 587,
     "smtp_secure": "tls",
-    "smtp_username": "nrglobal.client@gmail.com",
-    "smtp_password": "pybcixgeyxdmtzvp"
+    "smtp_username": "info.nr.customer@gmail.com",
+    "smtp_password": "omvyvqfsfshhjtxu"
 }
